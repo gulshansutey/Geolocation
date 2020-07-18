@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Geolocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="start_sharing_location_switch_txt">Stop sharing your location</string>
+    <string name="stop_sharing_location_switch_txt">Start sharing your location</string>
+    <string name="start_tracking_switch_txt">Start Tracking</string>
+    <string name="stop_tracking_switch_txt">Stop Tracking</string>
+</resources>
